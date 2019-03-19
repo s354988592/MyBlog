@@ -1,3 +1,7 @@
+## blog地址 https://s354988592.github.io/MyBlog/
+### 注意使用的是Google的filebase 实时数据库 不科学上网没法获取到数据
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/s354988592/MyBlog/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
